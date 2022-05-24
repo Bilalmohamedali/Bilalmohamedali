@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Bilal mohamed ali</h1>
 <h3 align="center">Backend developer.</h3>
 
+- 🔍 I'm interested **in Backend Development projects.**
+
+- 🌱My big hobbie is **read manga.**
+
+- 👨‍💻 In my free time **I learn about Backend development.**
+
+- 📚 Currently learning everything about **MERN stack.**
+
+- 👑 My personality is **INTJ.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bilalmohamedali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bilalmohamedali" height="30" width="40" /></a>

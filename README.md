@@ -16,7 +16,7 @@ Curioso, creativo, versátil, apasionado, amante de los retos y la programación
 
 Siempre tuve la inquietud de aprender desarrollo y programación web, pues prácticamente desde que tenía 7 años crecí rodeado de ordenadores y siempre me llamó la atención descubrir que había detrás del diseño de las páginas que visitaba y la magia que había detrás de cada click que hacía.
 
-Por lo que hace aproximadamente un año, decidí que era el momento de "dar el salto" y empezar a estudiar programación web, y he aprendido Javascript, Node,js Java, , Spring,Hibernate.
+Por lo que hace aproximadamente un año, decidí que era el momento de "dar el salto" y empezar a estudiar programación web, y he aprendido Javascript, Node,js Java, , Spring, Hibernate.
 
 Mi objetivo es tener la oportunidad de abrirme camino en el sector IT y poder así decir que he logrado hacer de mi trabajo, mi pasión.  
   
